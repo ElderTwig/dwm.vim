@@ -1,3 +1,5 @@
+Forking to change a keybind
+
 ### dwm.vim : Tiled Window Management for Vim
 
 dwm.vim adds tiled window management capabilities to Vim. It is highly inspired by [dwm](http://dwm.suckless.org/) (Dynamic Window Manager) tiled layout management. 
@@ -22,7 +24,7 @@ Use the following commands to create, browse and close windows:
 - `C-C` Close the current window if no unsaved changes 
 - `C-J` Jumps to next window (clockwise) 
 - `C-K` Jumps to previous window (anti-clockwise) 
-- `C-Space` Focus the current window, that is, place it in the master pane [M] & stacks all other windows in the stacked pane [S]
+- `C-F` Focus the current window, that is, place it in the master pane [M] & stacks all other windows in the stacked pane [S]
 
 ### ScreenShot
 
