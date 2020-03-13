@@ -72,7 +72,7 @@ mapped:
 
   <c-n>     |:DWM_New|
   <c-c>     |:DWM_Close|
-  <c-space> |:DWM_Focus|
+  <c-f>     |:DWM_Focus|
   <c-j>     Move cursor clockwise to the next window
   <c-k>     Move cursor counter-clockwise to the previous window
   <c-,>     Rotate windows counter-clockwise
